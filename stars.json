@@ -9,19 +9,19 @@
     "full_name": "kiaanphp/kiaan",
     "stargazers_count": 26,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 4456,
-    "open_issues_count": 53,
+    "stargazers_count": 4521,
+    "open_issues_count": 46,
     "forks_count": 234
   },
   {
     "full_name": "Cveinnt/LiveTerm",
-    "stargazers_count": 3097,
-    "open_issues_count": 7,
-    "forks_count": 192
+    "stargazers_count": 3119,
+    "open_issues_count": 9,
+    "forks_count": 197
   },
   {
     "full_name": "Everkers/riot-account-quick-access",
@@ -43,69 +43,69 @@
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 35491,
+    "stargazers_count": 35501,
     "open_issues_count": 6,
-    "forks_count": 2058
+    "forks_count": 2057
   },
   {
     "full_name": "eknoorpreet/dev.to-clone",
     "stargazers_count": 287,
     "open_issues_count": 0,
-    "forks_count": 67
+    "forks_count": 66
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 17932,
-    "open_issues_count": 568,
-    "forks_count": 1379
+    "stargazers_count": 18025,
+    "open_issues_count": 567,
+    "forks_count": 1388
   },
   {
     "full_name": "Michael-J-Scofield/discord-anti-spam",
-    "stargazers_count": 153,
+    "stargazers_count": 152,
     "open_issues_count": 3,
     "forks_count": 65
   },
   {
     "full_name": "nusu/avvvatars",
-    "stargazers_count": 1020,
+    "stargazers_count": 1023,
     "open_issues_count": 3,
     "forks_count": 35
   },
   {
     "full_name": "electron-react-boilerplate/electron-react-boilerplate",
-    "stargazers_count": 19727,
-    "open_issues_count": 38,
-    "forks_count": 3312
+    "stargazers_count": 19740,
+    "open_issues_count": 40,
+    "forks_count": 3316
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 17576,
-    "open_issues_count": 30,
-    "forks_count": 502
+    "stargazers_count": 17712,
+    "open_issues_count": 33,
+    "forks_count": 507
   },
   {
     "full_name": "soheilpro/mailwind",
-    "stargazers_count": 2567,
+    "stargazers_count": 2569,
     "open_issues_count": 3,
-    "forks_count": 61
+    "forks_count": 60
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 34253,
-    "open_issues_count": 3,
-    "forks_count": 2937
+    "stargazers_count": 34301,
+    "open_issues_count": 2,
+    "forks_count": 2940
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 8665,
+    "stargazers_count": 8698,
     "open_issues_count": 34,
-    "forks_count": 259
+    "forks_count": 260
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 27144,
+    "stargazers_count": 27159,
     "open_issues_count": 248,
-    "forks_count": 2805
+    "forks_count": 2807
   },
   {
     "full_name": "Reactive-Extensions/RxJS",
@@ -139,33 +139,33 @@
   },
   {
     "full_name": "lucaburgio/iconoir",
-    "stargazers_count": 2687,
-    "open_issues_count": 22,
-    "forks_count": 99
+    "stargazers_count": 2691,
+    "open_issues_count": 21,
+    "forks_count": 101
   },
   {
     "full_name": "streamich/react-use",
-    "stargazers_count": 29907,
+    "stargazers_count": 29951,
     "open_issues_count": 478,
-    "forks_count": 2362
+    "forks_count": 2371
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 28700,
+    "stargazers_count": 28751,
     "open_issues_count": 6,
-    "forks_count": 1385
+    "forks_count": 1389
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 39486,
-    "open_issues_count": 789,
-    "forks_count": 27374
+    "stargazers_count": 39522,
+    "open_issues_count": 793,
+    "forks_count": 27392
   },
   {
     "full_name": "vvo/iron-session",
-    "stargazers_count": 1560,
+    "stargazers_count": 1568,
     "open_issues_count": 33,
-    "forks_count": 176
+    "forks_count": 174
   },
   {
     "full_name": "zakarialaoui10/ziko.js",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 204171,
-    "open_issues_count": 33,
-    "forks_count": 23570
+    "stargazers_count": 204578,
+    "open_issues_count": 32,
+    "forks_count": 23587
   }
 ]
