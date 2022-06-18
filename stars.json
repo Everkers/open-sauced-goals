@@ -13,15 +13,15 @@
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 4577,
-    "open_issues_count": 52,
-    "forks_count": 238
+    "stargazers_count": 4585,
+    "open_issues_count": 55,
+    "forks_count": 241
   },
   {
     "full_name": "Cveinnt/LiveTerm",
-    "stargazers_count": 3165,
+    "stargazers_count": 3190,
     "open_issues_count": 9,
-    "forks_count": 203
+    "forks_count": 205
   },
   {
     "full_name": "Everkers/riot-account-quick-access",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 35502,
+    "stargazers_count": 35499,
     "open_issues_count": 6,
-    "forks_count": 2056
+    "forks_count": 2058
   },
   {
     "full_name": "eknoorpreet/dev.to-clone",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 18128,
-    "open_issues_count": 577,
-    "forks_count": 1400
+    "stargazers_count": 18150,
+    "open_issues_count": 579,
+    "forks_count": 1406
   },
   {
     "full_name": "Michael-J-Scofield/discord-anti-spam",
@@ -67,43 +67,43 @@
   },
   {
     "full_name": "nusu/avvvatars",
-    "stargazers_count": 1028,
+    "stargazers_count": 1029,
     "open_issues_count": 3,
     "forks_count": 35
   },
   {
     "full_name": "electron-react-boilerplate/electron-react-boilerplate",
-    "stargazers_count": 19754,
+    "stargazers_count": 19756,
     "open_issues_count": 38,
-    "forks_count": 3322
+    "forks_count": 3326
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 18041,
+    "stargazers_count": 18127,
     "open_issues_count": 37,
-    "forks_count": 518
+    "forks_count": 521
   },
   {
     "full_name": "soheilpro/mailwind",
-    "stargazers_count": 2571,
+    "stargazers_count": 2573,
     "open_issues_count": 3,
     "forks_count": 61
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 34377,
+    "stargazers_count": 34405,
     "open_issues_count": 1,
-    "forks_count": 2953
+    "forks_count": 2957
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 8731,
+    "stargazers_count": 8741,
     "open_issues_count": 39,
-    "forks_count": 262
+    "forks_count": 263
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 27169,
+    "stargazers_count": 27170,
     "open_issues_count": 248,
     "forks_count": 2807
   },
@@ -139,32 +139,32 @@
   },
   {
     "full_name": "lucaburgio/iconoir",
-    "stargazers_count": 2696,
+    "stargazers_count": 2697,
     "open_issues_count": 23,
     "forks_count": 101
   },
   {
     "full_name": "streamich/react-use",
-    "stargazers_count": 30005,
+    "stargazers_count": 30027,
     "open_issues_count": 480,
-    "forks_count": 2379
+    "forks_count": 2383
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 28812,
+    "stargazers_count": 28831,
     "open_issues_count": 5,
-    "forks_count": 1393
+    "forks_count": 1392
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 39568,
-    "open_issues_count": 798,
-    "forks_count": 27417
+    "stargazers_count": 39579,
+    "open_issues_count": 805,
+    "forks_count": 27422
   },
   {
     "full_name": "vvo/iron-session",
-    "stargazers_count": 1580,
-    "open_issues_count": 34,
+    "stargazers_count": 1583,
+    "open_issues_count": 33,
     "forks_count": 176
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 205109,
+    "stargazers_count": 205227,
     "open_issues_count": 32,
-    "forks_count": 23603
+    "forks_count": 23609
   }
 ]
