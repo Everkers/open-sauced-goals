@@ -1,14 +1,14 @@
 [
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 22784,
+    "stargazers_count": 22785,
     "open_issues_count": 121,
     "forks_count": 1474
   },
   {
     "full_name": "CommunityDragon/Docs",
     "stargazers_count": 69,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 4793,
-    "open_issues_count": 66,
-    "forks_count": 271
+    "stargazers_count": 4799,
+    "open_issues_count": 63,
+    "forks_count": 272
   },
   {
     "full_name": "Cveinnt/LiveTerm",
-    "stargazers_count": 3286,
+    "stargazers_count": 3292,
     "open_issues_count": 13,
     "forks_count": 219
   },
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 35691,
+    "stargazers_count": 35700,
     "open_issues_count": 6,
-    "forks_count": 2082
+    "forks_count": 2083
   },
   {
     "full_name": "eknoorpreet/dev.to-clone",
     "stargazers_count": 295,
     "open_issues_count": 0,
-    "forks_count": 71
+    "forks_count": 70
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 18992,
-    "open_issues_count": 638,
-    "forks_count": 1499
+    "stargazers_count": 19021,
+    "open_issues_count": 641,
+    "forks_count": 1502
   },
   {
     "full_name": "Michael-J-Scofield/discord-anti-spam",
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "nusu/avvvatars",
-    "stargazers_count": 1039,
+    "stargazers_count": 1040,
     "open_issues_count": 3,
     "forks_count": 35
   },
   {
     "full_name": "electron-react-boilerplate/electron-react-boilerplate",
-    "stargazers_count": 19873,
-    "open_issues_count": 48,
-    "forks_count": 3351
+    "stargazers_count": 19871,
+    "open_issues_count": 47,
+    "forks_count": 3353
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 19312,
+    "stargazers_count": 19346,
     "open_issues_count": 49,
-    "forks_count": 557
+    "forks_count": 561
   },
   {
     "full_name": "soheilpro/mailwind",
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 35018,
+    "stargazers_count": 35052,
     "open_issues_count": 2,
-    "forks_count": 3027
+    "forks_count": 3032
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 9108,
-    "open_issues_count": 38,
-    "forks_count": 276
+    "stargazers_count": 9116,
+    "open_issues_count": 35,
+    "forks_count": 279
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 27321,
+    "stargazers_count": 27330,
     "open_issues_count": 260,
-    "forks_count": 2826
+    "forks_count": 2828
   },
   {
     "full_name": "Reactive-Extensions/RxJS",
-    "stargazers_count": 19621,
+    "stargazers_count": 19622,
     "open_issues_count": 288,
-    "forks_count": 2214
+    "forks_count": 2213
   },
   {
     "full_name": "videsk/tailwind-random-color",
@@ -145,32 +145,32 @@
   },
   {
     "full_name": "lucaburgio/iconoir",
-    "stargazers_count": 2728,
-    "open_issues_count": 29,
+    "stargazers_count": 2729,
+    "open_issues_count": 30,
     "forks_count": 103
   },
   {
     "full_name": "streamich/react-use",
-    "stargazers_count": 30504,
-    "open_issues_count": 489,
-    "forks_count": 2438
+    "stargazers_count": 30534,
+    "open_issues_count": 488,
+    "forks_count": 2442
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 29346,
-    "open_issues_count": 9,
-    "forks_count": 1419
+    "stargazers_count": 29354,
+    "open_issues_count": 8,
+    "forks_count": 1420
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 39923,
-    "open_issues_count": 813,
-    "forks_count": 27579
+    "stargazers_count": 39933,
+    "open_issues_count": 817,
+    "forks_count": 27588
   },
   {
     "full_name": "vvo/iron-session",
-    "stargazers_count": 1672,
-    "open_issues_count": 38,
+    "stargazers_count": 1678,
+    "open_issues_count": 39,
     "forks_count": 182
   },
   {
