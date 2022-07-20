@@ -1,7 +1,7 @@
 [
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 22790,
+    "stargazers_count": 22791,
     "open_issues_count": 121,
     "forks_count": 1475
   },
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 4813,
-    "open_issues_count": 66,
-    "forks_count": 277
+    "stargazers_count": 4823,
+    "open_issues_count": 72,
+    "forks_count": 278
   },
   {
     "full_name": "Cveinnt/LiveTerm",
-    "stargazers_count": 3302,
+    "stargazers_count": 3305,
     "open_issues_count": 13,
     "forks_count": 221
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 35717,
+    "stargazers_count": 35725,
     "open_issues_count": 6,
-    "forks_count": 2084
+    "forks_count": 2085
   },
   {
     "full_name": "eknoorpreet/dev.to-clone",
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 19120,
-    "open_issues_count": 655,
-    "forks_count": 1511
+    "stargazers_count": 19150,
+    "open_issues_count": 662,
+    "forks_count": 1520
   },
   {
     "full_name": "Michael-J-Scofield/discord-anti-spam",
     "stargazers_count": 154,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 64
   },
   {
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "electron-react-boilerplate/electron-react-boilerplate",
-    "stargazers_count": 19880,
-    "open_issues_count": 49,
-    "forks_count": 3353
+    "stargazers_count": 19883,
+    "open_issues_count": 50,
+    "forks_count": 3355
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 19432,
-    "open_issues_count": 34,
+    "stargazers_count": 19466,
+    "open_issues_count": 30,
     "forks_count": 564
   },
   {
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 35125,
+    "stargazers_count": 35150,
     "open_issues_count": 2,
-    "forks_count": 3035
+    "forks_count": 3041
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 9144,
-    "open_issues_count": 36,
+    "stargazers_count": 9156,
+    "open_issues_count": 32,
     "forks_count": 279
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 27352,
+    "stargazers_count": 27357,
     "open_issues_count": 261,
     "forks_count": 2829
   },
@@ -145,31 +145,31 @@
   },
   {
     "full_name": "iconoir-icons/iconoir",
-    "stargazers_count": 2736,
+    "stargazers_count": 2738,
     "open_issues_count": 31,
     "forks_count": 106
   },
   {
     "full_name": "streamich/react-use",
-    "stargazers_count": 30598,
-    "open_issues_count": 488,
-    "forks_count": 2446
+    "stargazers_count": 30616,
+    "open_issues_count": 489,
+    "forks_count": 2450
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 29399,
-    "open_issues_count": 8,
-    "forks_count": 1423
+    "stargazers_count": 29427,
+    "open_issues_count": 9,
+    "forks_count": 1425
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 39961,
-    "open_issues_count": 826,
-    "forks_count": 27602
+    "stargazers_count": 39973,
+    "open_issues_count": 825,
+    "forks_count": 27603
   },
   {
     "full_name": "vvo/iron-session",
-    "stargazers_count": 1681,
+    "stargazers_count": 1684,
     "open_issues_count": 38,
     "forks_count": 183
   },
